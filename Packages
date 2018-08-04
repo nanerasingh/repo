@@ -3,7 +3,7 @@ Package: com.manu.duplexclockxpro
 Version: 1.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: manu <nanerasingh@hotmail.com>
-Filename: /com.manu.duplexclockxpro_1.0-1+debug_iphoneos-arm.deb
+Filename: ./pkgs/com.manu.duplexclockxpro_1.0-1+debug_iphoneos-arm.deb
 Size: 27870
 MD5sum: d676f87e0f415bb3389c9006a43ca4ee
 SHA1: 0251512774928abbed7e43d5f2392c57b5623901
@@ -17,7 +17,7 @@ Package: com.manu.duplexclockxpro
 Version: 1.1-1+debug
 Architecture: iphoneos-arm
 Maintainer: manu <nanerasingh@hotmail.com>
-Filename: /com.manu.duplexclockxpro_1.1-1+debug_iphoneos-arm.deb
+Filename: ./pkgs/com.manu.duplexclockxpro_1.1-1+debug_iphoneos-arm.deb
 Size: 42020
 MD5sum: b21e8aa6c925772f08224e4f8ed94c4b
 SHA1: 7e92e32453334a1e869aeeb1a63430cf8f99d645
@@ -31,7 +31,7 @@ Package: com.manu.duplexclockxpro
 Version: 1.2-1+debug
 Architecture: iphoneos-arm
 Maintainer: manu <nanerasingh@hotmail.com>
-Filename: /com.manu.duplexclockxpro_1.2-1+debug_iphoneos-arm.deb
+Filename: ./pkgs/com.manu.duplexclockxpro_1.2-1+debug_iphoneos-arm.deb
 Size: 42416
 MD5sum: 18d63cd02e3cc84831dae1389bb050be
 SHA1: 94326ac508474cb4313cdcf774f06be6269bdcfd
