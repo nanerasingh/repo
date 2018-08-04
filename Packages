@@ -35,9 +35,9 @@ Architecture: iphoneos-arm
 Maintainer: manu <nanerasingh@hotmail.com>
 Filename: ./pkgs/com.manu.duplexclockxpro_1.2-1+debug_iphoneos-arm.deb
 Size: 42416
-MD5sum: E5A301CBFC128F904DAAC37F23D5302C
-SHA1: C5AC4008E41D22F98DFF52B26F7CD6156B6E8B64
-SHA256: E9BA5D11D78E0D6816C9C3C9EA7B1CBA4B5D8B16997ABB76CAF0F4417BE7A4EE
+MD5sum: e5a301cbfc128f904daac37f23d5302c
+sha1: c5ac4008e41d22f98dff52b26f7cd6156b6e8b64
+sha256:e9ba5d11d78e0d6816c9c3c9ea7b1cba4b5d8b16997abb76caf0f4417be7a4ee
 Section: Tweaks
 Description: Modify Your Clock from setting with Dual Timezone Supports & Other settings.http://www.nsdateformatter.com/ for more date time format settings.An updated version of DuplexClock & Undertime by sharedRoutine,gilshahar7 & NeinZedd9 for iPhone X forked by Manu,
 Author: manu <nanerasingh@hotmail.com>
