@@ -1,2 +1,2 @@
 # Manu's Repo
-hello welome to my cydia github repo
+hello welcome to my cydia github repo
